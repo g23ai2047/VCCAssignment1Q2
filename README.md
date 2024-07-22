@@ -18,3 +18,4 @@ Inside fastaiapp directory perform the following:
   2. Build docker image by using command `docker build -t fastapiapp .`
   3. Run the docker container using command `docker run -p 8000:8000 fastapiapp`
 
+#G23AI2047 - Karan Sharma (g23ai2047@iitj.ac.in)
